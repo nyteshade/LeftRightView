@@ -1,3 +1,1 @@
-# LeftRightView
-Example of simple left-right view in iOS/Swift
-
+# Example of a Left/Right View in Swift
